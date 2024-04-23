@@ -15,15 +15,11 @@ Explain the goals and purpose of this documentation.
 
 - [ ] Update an existing markdown document or add a new one in the docs directory.
 
-## Instructions on how to create the documentation
-### Introduction
-Explain the goals and purpose of this documentation.
+- [ ] It has introduction: Explains the goals and purpose of this documentation.
 
-### Step by step guide
-Provide the exact steps to guide the user on how to do a task.
+- [ ] It has a step by step guide: Provides the exact steps to guide the user on how to do a task.
 
-### Add references
-Reference any related resources that have assisted you creating this documentation (links to other tickets, online articles etc.).
+#### Additional acceptance criteria 
+- [ ] It includes references: References any related resources that have assisted creating this documentation (links to other tickets, online articles etc.).
 
-### Workflow
-Define the steps in different environments (production, staging)
+- [ ] It includes workflow: Defines the steps in different environments (production, staging)
