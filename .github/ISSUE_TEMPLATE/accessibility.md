@@ -18,6 +18,9 @@ assignees: ''
 ### Severity
 
 
+### WCAG Success Criterion
+
+
 ### WCAG Conformance level (A, AA, AAA)
 
 
