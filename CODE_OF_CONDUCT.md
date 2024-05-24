@@ -36,6 +36,8 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
+Some conduct violations by Princeton affiliates could also be a violation of [Princeton University's Policy on Discrimination and/or Harassment](https://inclusive.princeton.edu/addressing-concerns/policies/policy-discrimination-andor-harassment), and would be dealt with under that policy for Princeton affiliates.
+
 ## Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of
