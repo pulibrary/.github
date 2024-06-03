@@ -62,7 +62,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-mkadel@princeton.edu. Princeton University staff can also report to their supervisor, the [Title IX Coordinator](https://sexualmisconduct.princeton.edu/coordinator), or the [Ombuds Office](https://ombuds.princeton.edu/contact-us) as appropriate.
+lsupport@princeton.edu. Princeton University staff can also report to their supervisor, the [Title IX Coordinator](https://sexualmisconduct.princeton.edu/coordinator), or the [Ombuds Office](https://ombuds.princeton.edu/contact-us) as appropriate.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
