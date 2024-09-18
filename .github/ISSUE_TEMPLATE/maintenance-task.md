@@ -20,6 +20,8 @@ assignees: ''
 - A clear description of why this is needed.
 
 ### Acceptance criteria
+
+ - [ ] If this change touches any of the files referenced in `.rubocop_todo.yml` create a new ticket to address the rubocop  todo.
  - [ ]
  - [ ]
  - [ ]
