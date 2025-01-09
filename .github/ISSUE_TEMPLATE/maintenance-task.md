@@ -2,10 +2,11 @@
 name: Maintenance task
 about: Document some maintenance that needs to be done
 title: ''
-labels: maintenance
+labels: ''
 assignees: ''
 
 ---
+
 ### What maintenance needs to be done?
 
 ### Level of urgency
@@ -27,5 +28,3 @@ assignees: ''
  - [ ]
 
 ### Implementation notes, if any
-
-

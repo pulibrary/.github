@@ -2,10 +2,11 @@
 name: Documentation
 about: Create documentation
 title: ''
-labels: 'documentation'
+labels: documentation
 assignees: ''
 
 ---
+
 ### Introduction
 Explain the goals and purpose of this documentation.
 

@@ -2,7 +2,7 @@
 name: Accessibility audit
 about: Evaluate part of the project for accessibility
 title: Audit [Which part of the project?] for accessibility
-labels: ["accessibility-general", "investigate"]
+labels: ''
 assignees: ''
 
 ---

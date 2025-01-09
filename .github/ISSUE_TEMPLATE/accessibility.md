@@ -2,10 +2,11 @@
 name: Accessibility
 about: Report an accessibility issue
 title: ''
-labels: 'accessibility-awaiting-triage'
+labels: ''
 assignees: ''
 
 ---
+
 ### Steps to recreate
 
 
