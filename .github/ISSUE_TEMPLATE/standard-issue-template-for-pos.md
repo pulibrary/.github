@@ -22,19 +22,19 @@ _Please include hard deadlines, if the exhibit is part of an event, the issue is
 - [ ] PO will prioritize
 
 ## Sudden Priority Justification (Product Owner)
-_Required if "asap" or "within the next 3 weeks" is checked. Add "Sudden Priority" and "dls-work-cycle" labels_
+_Required if "asap" or "within the next 3 weeks" is checked. Add "Sudden Priority" and "team-work-cycle" labels_
 
 ### Implementation Notes
-_To be filled out by DLS._
+_To be filled out by developers._
 
 ### Acceptance Criteria
-_To be filled out by DLS.Some requirements to consider, including:_
+_To be filled out by developers. Some requirements to consider, including:_
 
 - [ ] The UI implemented for this issue meets accessibility requirements
 - [ ] New functionality is documented
 
 ### First Step
-_To be filled out by DLS._
+_To be filled out by developers._
 
 ### Expected behavior (Product Owner)
 
