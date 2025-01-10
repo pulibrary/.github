@@ -1,12 +1,11 @@
 ---
 name: Production readiness audit
 about: Evaluate an application for adherence to production application expectations
-title: "[Application] Production readiness audit"
+title: '[Application] Production readiness audit'
 labels: ''
 assignees: ''
 
 ---
-
 PUL IT has put together a [checklist for production applications](https://github.com/pulibrary/pul-it-handbook/blob/main/norms/production_application_checklist.md).
 
 The work of this ticket is to go through the checklist and evaluate which of the criteria an application meets, and to create tickets for any criteria which an application does not meet.

@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: 'feature'
 assignees: ''
 
 ---
@@ -22,3 +22,4 @@ assignees: ''
 ### Concrete example
 
 ### Implementation notes, if any
+
