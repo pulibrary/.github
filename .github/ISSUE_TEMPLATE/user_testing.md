@@ -8,16 +8,15 @@ assignees: ''
 ---
 ### Before the user testing session
 - [ ] Brainstorm the goals of your session- what do you want to get out of meeting with a user? How will you find out what you need to know? Why are you running a session and what will you be able to do with that specific information?
-- [ ] Create a script for the user testing session.
+- [ ] Create a script for the user testing session. [Example script](https://docs.google.com/document/d/1ZA2bw9AQOV6pRQuHDxB3Olk8kXOa8fGUXVTaHpnhStk/edit?tab=t.0)
 - [ ] Create a google spreadsheet for all the attendees to take notes. [Example spreadsheet](https://docs.google.com/spreadsheets/d/1uWYxeG52MEjlNhBh4Ap48RC55i67Z9jEsTIhdRhzAR0/edit?gid=772532589#gid=772532589)
 
 ### Important notes for the attendees
 - Join the call 5 mins earlier than the scheduled meeting.
 - Do not join the call late.
-- Stay muted during the session.
 - Stay muted during the session until the facilitator has asked for additional feedback or questions. 
 - Do not interrupt.
-- Keep the number of attendees to a reasonable number (2-4 onscreen). 
+- Keep the number of attendees to a reasonable number (2-4 onscreen). If there are more on the call consider turning off your video. 
 
 ### Best practices for facilitators
 - Welcome users and help them be at ease. 
