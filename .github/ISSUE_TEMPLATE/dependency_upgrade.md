@@ -13,5 +13,5 @@ assignees: ''
 - [ ] Provision staging box to use the new version
 - [ ] Deploy code that works with the new version to staging
 - [ ] Manually test on staging box with the new version
-- [ ] Provision new boxes or use [this process to upgrade and deploy in place](https://docs.google.com/document/d/1qedt3nKl9nlSmYepT5DPYVcfDB9xvE81Qllmw_cYvf0/edit)
+- [ ] Provision new boxes by running the playbook one server at a time then deploy the new code that server using Capistrano. Tunnel to each server once upgraded to make sure the application is working
 - [ ] Update this issue template with anything we need to keep in mind for the next upgrade
