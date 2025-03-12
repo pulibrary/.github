@@ -13,5 +13,5 @@ assignees: ''
 - [ ] Provision staging box to use the new version
 - [ ] Deploy code that works with the new version to staging
 - [ ] Manually test on staging box with the new version
-- [ ] Provision new boxes by running the playbook one server at a time then deploy the new code that server using Capistrano. Tunnel to each server once upgraded to make sure the application is working
+- [ ] Provision new boxes by running the playbook one server at as described in [Upgrading major versions of dependencies](https://github.com/pulibrary/pul-it-handbook/blob/main/services/upgrading_major_versions.md)
 - [ ] Update this issue template with anything we need to keep in mind for the next upgrade
