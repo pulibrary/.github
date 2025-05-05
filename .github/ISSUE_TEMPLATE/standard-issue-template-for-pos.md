@@ -8,38 +8,41 @@ assignees: ''
 ---
 
 ### Summary (Product Owner)
-
-### User Story (Product Owner, when applicable)
-_As a [persona], I want to [describe intent], so that [explain the big problem you are trying to solve and its benefit]_
+_What's the problem you're trying to solve? Please include background and other context._
 
 ### Impact (Product Owner)
+TODO: Maybe separate deadlines and impact?
 _Please include hard deadlines, if the exhibit is part of an event, the issue is stopping work, etc._
+
+### User Story (Product Owner) (Feature Request)
+_As a [persona], I want to [describe intent], so that [explain the big problem you are trying to solve and its benefit]_
 
 ### Priority recommendation (Product Owner)
 
-- [ ] asap
-- [ ] within the next 3 weeks
+- [ ] asap (add sudden priority justification below)
+- [ ] within the next 3 weeks (add sudden priority justification below)
 - [ ] PO will prioritize
 
-## Sudden Priority Justification (Product Owner)
-_Required if "asap" or "within the next 3 weeks" is checked. Add "Sudden Priority" and "team-work-cycle" labels_
+### Sudden Priority Justification (Product Owner)
+_Say how staff’s work is being impacted and why there are no suitable workarounds. Add "Sudden Priority" and "team-work-cycle" labels if you fill this out._
 
-### Implementation Notes
-_To be filled out by developers._
+### Expected behavior (Product Owner) (Bug)
+
+### Actual behavior (Product Owner) (Bug)
+
+### Steps to reproduce behavior (Product Owner) (Bug)
+
+### Screenshots (Product Owner)
 
 ### Acceptance Criteria
-_To be filled out by developers. Some requirements to consider, including:_
 
+This work is complete when:
+
+- [ ] (Product Owner Fill This Out)
 - [ ] The UI implemented for this issue meets accessibility requirements
 - [ ] New functionality is documented
 
-### First Step
-_To be filled out by developers._
+### First Step (Developers)
 
-### Expected behavior (Product Owner)
+### Implementation Notes (Developers)
 
-### Actual behavior (Product Owner)
-
-### Steps to reproduce behavior (Product Owner)
-
-### Screenshots (Product Owner)
